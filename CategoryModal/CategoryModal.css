@@ -1,0 +1,56 @@
+.Category-modal1 {
+    height: 441px;
+    margin-top: 50px;
+    padding: 30px;
+    text-align: center;
+}
+
+.css-1e6y48t-MuiButtonBase-root-MuiButton-root {
+    text-transform: none !important;
+}
+
+.css-1wnsr1i {
+    border: none !important;
+    border-radius: 44px;
+    /* width: 648px !important; */
+}
+
+.Category-modal1 img {
+    height: 160px;
+    margin-top: 40px;
+}
+
+.Category-modal1 h1 {
+    font-size: 24px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 32px;
+
+}
+
+.Category-modal1 p {
+    font-size: 16px;
+    font-weight: 400;
+
+}
+
+.Modal-btn12 {
+    height: 48px;
+    width: 324px;
+    border: none;
+    border-radius: 16px;
+    background-color: #00AFEF;
+    color: #fff;
+    margin-right: 32px;
+    margin-top: 32px;
+    font-weight: 700;
+    font-size: 16px;
+
+}
+
+.css-ghpphw {
+    border: none !important;
+    width: 648px !important;
+    border-radius: 44px;
+    padding: 32px;
+}
